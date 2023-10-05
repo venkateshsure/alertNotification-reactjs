@@ -8,9 +8,9 @@ const Notification = props => {
   const {children} = props
   console.log(children)
   return (
-    <div className="notification-con">
-      {children}
-      <GrFormClose className="cross-mark" />
+    <div className="notification">
+      <div className="notification-content">{children}</div>
+      <GrFormClose className="close-icon" />
     </div>
   )
 }
