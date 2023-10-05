@@ -1,0 +1,40 @@
+/* Write your CSS here */
+
+.head-con {
+  width: 100%;
+}
+
+.head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.fir-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.para-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.air-fill {
+  color: #2dca73;
+}
+
+.error-fill {
+  color: #ff0b37;
+}
+
+.warning-fill {
+  color: #ffb800;
+}
+
+.info-fill {
+  color: #0f81e0;
+}

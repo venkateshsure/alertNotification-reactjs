@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.cross-mark {
+  color: #64748b;
+}
+
+.notification-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 40%;
+}
