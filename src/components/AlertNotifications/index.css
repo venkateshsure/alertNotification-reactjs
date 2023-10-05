@@ -12,6 +12,9 @@
   align-items: center;
   width: 80%;
 }
+.para-con {
+  margin-left: 20px;
+}
 
 .air-fill {
   color: #2dca73;
